@@ -10,7 +10,7 @@ Welcome to my projects! This is a list of Apps I've made in HTML, CSS and Javasc
 | 2 | <a href="https://github.com/baikoo/JS-Exercises/tree/main/art-gallery">Art Gallery</a> |
 | 3 | <a href="https://github.com/baikoo/JS-Exercises/tree/main/equalizer-landing-page">Equalizer Landing Page</a> |
 | 4 | <a href="https://github.com/baikoo/JS-Exercises/tree/main/landingpage">Landing Page</a> | 
-| 5 | <a href=" ">Order Summary</a> | 
+| 5 | <a href="https://github.com/baikoo/JS-Exercises/tree/main/order-summary">Order Summary</a> | 
 | 6 | <a href=" ">Profile Card</a> | 
 | 7 | <a href="https://github.com/baikoo/JS-Exercises/tree/main/typemaster">Typemaster</a> | 
 | 8 | <a href=" ">Recipe</a> | 
