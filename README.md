@@ -12,5 +12,5 @@ Welcome to my projects! This is a list of Apps I've made in HTML, CSS and Javasc
 | 4 | <a href=" ">Landing Page</a> | 
 | 5 | <a href=" ">Order Summary</a> | 
 | 6 | <a href=" ">Profile Card</a> | 
-| 7 | <a href=" ">Typemaster</a> | 
-| 7 | <a href=" ">Recipe</a> | 
+| 7 | <a href="https://github.com/baikoo/JS-Exercises/tree/main/typemaster">Typemaster</a> | 
+| 8 | <a href=" ">Recipe</a> | 
