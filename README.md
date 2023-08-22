@@ -6,7 +6,7 @@ Welcome to my projects! This is a list of Apps I've made in HTML, CSS and Javasc
 ## Projects
 | No  | Project Name  |
 | ------------- | ------------- |
-| 1 | Card Component |
+| 1 | <a src="https://github.com/baikoo/JS-Exercises/tree/main/card-component">Card Component</a> |
 | 2 |  |
 | 3 |  |
 | 4 |  | 
